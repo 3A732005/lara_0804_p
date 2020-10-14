@@ -6,5 +6,7 @@
             "email": "ab53014698@yahoo.com.tw"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^2.39.0"
+    }
 }
